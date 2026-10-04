@@ -2106,6 +2106,7 @@ dependencies = [
     { name = "minsearch" },
     { name = "openai" },
     { name = "python-dotenv" },
+    { name = "requests" },
 ]
 
 [package.dev-dependencies]
@@ -2118,6 +2119,7 @@ requires-dist = [
     { name = "minsearch", specifier = ">=0.2.0" },
     { name = "openai", specifier = ">=3.16.2" },
     { name = "python-dotenv", specifier = ">=1.2.3" },
+    { name = "requests", specifier = ">=2.34.2" },
 ]
 
 [package.metadata.requires-dev]
