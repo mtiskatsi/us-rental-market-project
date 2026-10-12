@@ -47,6 +47,7 @@ Every field includes the evidence it was based on (for example, an assessor reco
 
 - `notebooks/01-setup.ipynb` - smoke test that confirms your environment works
 - `notebooks/02-rag.ipynb` - a minimal RAG baseline you can adapt to your own data
+- `notebooks/03-agent.ipynb` - research agent with tools: property records lookup, portfolio search, web search, page fetch, and property management software detection
 
 ## Data
 
